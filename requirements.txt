@@ -1,0 +1,7 @@
+flask==2.3.3
+cohere==4.34
+chromadb==0.4.15
+python-dotenv==1.0.0
+pypdf==3.17.0
+sentence-transformers
+tqdm
